@@ -1,2 +1,2 @@
-# ProgrammersPS
-Programmers Algorithm Problem solving 
+# Algorithm_PS
+Algorithm Problem solving 
